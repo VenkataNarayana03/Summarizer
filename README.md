@@ -8,7 +8,7 @@ A web application that provides text summarization functionality, built with a P
 - Easy-to-use API endpoints
 
 ## Project Structure
-
+```
 Summarizer/
 ├── backend/           # Backend server and ML model
 │   ├── app.py        # Flask application
@@ -20,7 +20,7 @@ Summarizer/
 │   └── script.js     # Frontend logic
 └── .gitignore        # Git ignore file
 
-
+```
 ## Prerequisites
 - Python 3.8+
 - pip (Python package manager)
